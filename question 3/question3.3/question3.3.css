@@ -1,0 +1,65 @@
+body {
+    background-color: ;
+  }
+  .polygons {
+    text-align: center;
+    position: relative;
+  }
+  .square {
+    width: 80px;
+    height: 80px;
+    background: #fd9e5a;
+    position: relative;
+    border-radius: 10px;
+    top: 0px;
+    display: inline-block;
+  }
+  
+  
+  .square3 {
+    width: 80px;
+    height: 80px;
+    background: #fd9e5a;
+    position: absolute;
+    border-radius: 10px;
+    top: 50px;
+    left: 50px;
+    display: inline-block;
+    overflow:hidden
+    
+  }
+  
+  #overlap {
+    width: 50px;
+    left: 0px;
+    border-bottom-right-radius:10px;
+    
+    height: 50px;
+    background: #FA5F3D;
+    position: relative;
+    
+  }
+  
+  .square2 {
+    width: 100px;
+    height: 100px;
+    background: #FA5F3D;
+    border-radius:10%;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    display: inline-block;
+    overflow: visible;
+  }
+  
+  
+  }
+  #overlap {
+    width: 10x;
+    height: 60px;
+    background: #f7a4a7 ;
+    position: relative;
+    left: -40px;
+  }
+  
+  

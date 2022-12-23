@@ -1,0 +1,26 @@
+.first{
+    width:10%;
+    height:40px;
+    position:absolute;
+    border:2px ;
+    background-color: #70D68A;
+    border-radius:15px;
+    }
+    .second{
+    border:2px ;
+    background-color: #70D68A ;
+    width:10%;
+    height:40px;
+    position: relative;
+    top: 54px;
+    border-radius:15px;
+    }
+    .third{
+    border:2px ;
+    background-color: #70D68A ;
+    width:10%;
+    height:40px;
+    position: relative;
+    top: 65px;
+    border-radius:15px;
+    }
